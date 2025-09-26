@@ -1,7 +1,11 @@
-<<<<<<< Updated upstream
 moimoi tää on uus teksti 26.9.2025 klo 13:37 ja nyt 19:44 ja nyt 19:51
 
 
 =======
 moimoi tää on uus teksti 26.9.2025 klo 13:37
 caca
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+
+>>>>>>> 46f84284c8f02a4ef327d35c33b010f0564c40dc
