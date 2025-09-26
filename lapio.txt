@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 moimoi tää on uus teksti 26.9.2025 klo 13:37 ja nyt 19:44 ja nyt 19:51
 
 
@@ -6,3 +5,4 @@ moimoi tää on uus teksti 26.9.2025 klo 13:37 ja nyt 19:44 ja nyt 19:51
 moimoi tää on uus teksti 26.9.2025 klo 13:37
 caca
 >>>>>>> Stashed changes
+
